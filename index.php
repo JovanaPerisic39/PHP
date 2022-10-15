@@ -69,7 +69,7 @@
                     <button id="btnF" class="form-control btn-warning" onclick="pretrazi()">Prikazi</button>
                 </div>
             </div>
-            <!-- <div class="row g-4" id="rezultat" style="margin-top:30px" > -->
+            <div class="row g-4" id="rezultat" style="margin-top:30px" >
 
             </div>
         </div>
